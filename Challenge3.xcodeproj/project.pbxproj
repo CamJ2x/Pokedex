@@ -14,6 +14,7 @@
 		1F1814EE2947767A00C3BBE4 /* Challenge3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1814ED2947767A00C3BBE4 /* Challenge3Tests.swift */; };
 		1F1814F82947767A00C3BBE4 /* Challenge3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1814F72947767A00C3BBE4 /* Challenge3UITests.swift */; };
 		1F1814FA2947767A00C3BBE4 /* Challenge3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1814F92947767A00C3BBE4 /* Challenge3UITestsLaunchTests.swift */; };
+		1F7257BC29CDD5B200F18562 /* Pokeball .swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7257BB29CDD5B200F18562 /* Pokeball .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1F1814F32947767A00C3BBE4 /* Challenge3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Challenge3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1814F72947767A00C3BBE4 /* Challenge3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge3UITests.swift; sourceTree = "<group>"; };
 		1F1814F92947767A00C3BBE4 /* Challenge3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F7257BB29CDD5B200F18562 /* Pokeball .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pokeball .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				1F1814DC2947767900C3BBE4 /* Challenge3App.swift */,
 				1F1814DE2947767900C3BBE4 /* ContentView.swift */,
+				1F7257BB29CDD5B200F18562 /* Pokeball .swift */,
 				1F1814E02947767A00C3BBE4 /* Assets.xcassets */,
 				1F1814E22947767A00C3BBE4 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F1814DF2947767900C3BBE4 /* ContentView.swift in Sources */,
+				1F7257BC29CDD5B200F18562 /* Pokeball .swift in Sources */,
 				1F1814DD2947767900C3BBE4 /* Challenge3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
